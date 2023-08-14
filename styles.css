@@ -20,8 +20,8 @@ img{
 }
 body {
     background-size: cover;
-    height: 100vh;
-    width: 100vw;
+    height: cover;
+    width: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -54,6 +54,9 @@ body {
   }
   
   p {
+    display:table;
+    margin:auto;
+    color:white;
     font-family: verdana;
     font-size: 20px;
   }
