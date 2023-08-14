@@ -8,17 +8,17 @@
                 "3 tablespoons flour: whole wheat, all-purpose, or gluten-free blend all work",
                 "1 tablespoon ground chili powder",
                 "1 teaspoon ground cumin",
-                "½ teaspoon garlic powder",
-                "¼ teaspoon dried oregano",
-                "¼ teaspoon salt, to taste",
+                "1/2 teaspoon garlic powder",
+                "1/4 teaspoon dried oregano",
+                "1/4 teaspoon salt, to taste",
                 "Pinch of cinnamon",
                 "3 tablespoons extra-virgin olive oil",
                 "2 tablespoons tomato paste",
                 "2 cups vegetable broth",
                 "2 tablespoons chopped fresh cilantro, plus additional for garnish",
                 "1 teaspoon apple cider vinegar or distilled white vinegar",
-                "5 big handfuls (5 ounces) corn tortilla chips, or homemade crispy baked tortilla chips (see post)",
-                "⅓ cup crumbled Cotija, queso fresco or feta cheese",
+                "5 big handfuls (5 ounces) corn tortilla chips, or homemade crispy baked tortilla chips",
+                "1/3 cup crumbled Cotija, queso fresco or feta cheese",
                 "1 small handful (about 3 tablespoons) very thinly sliced radish, or chopped red or green onion",
                 "1 ripe avocado, thinly sliced, or guacamole",
                 "Optional: 4 fried eggs or scrambled eggs or poached eggs",
@@ -39,10 +39,26 @@
         },
         {
             "id":2,
-            "name": "",
-            "image": "",
+            "name": "Vegetarian Stuffed Grape Leaves",
+            "image": "https://www.fifteenspatulas.com/wp-content/uploads/2013/09/Stuffed-Grape-Leaves-Dolmas-Recipe.jpg",
             "steps": [
+                "2 cups warm water",
+                "1 cup uncooked medium-grain white rice",
+                "5 teaspoons kosher salt, divided",
+                "6 tablespoons olive oil, divided",
+                "4 large onions (about 2 lb. 10 oz.), finely chopped (about 8 1/2 cups)",
+                "1 large bunch fresh flat-leaf parsley, finely chopped (about 1 cup)",
+                "1 large bunch fresh dill, finely chopped (about 1 cup)",
+                "2 teaspoons dried mint (such as Burlap & Barrel)",
+                "2 teaspoons granulated sugar",
+                "1/2 teaspoon black pepper", 
+                "45 jarred brined grape leaves, rinsed",
+                "2 cups water",
+                "2 tablespoons fresh lemon juice",
 
+                "1. Stir together 2 cups warm water, rice, and 1 teaspoon salt in a medium bowl; let soak 20 minutes. Rinse and drain rice.",
+                "2. Heat 1/4 cup oil in a large skillet over medium-high. Add onions, and cook, stirring often, until softened, about 20 minutes. Add drained rice, and cook, stirring often, 5 minutes. Add parsley, dill, dried mint, sugar, black pepper, and remaining 4 teaspoons salt; cook, stirring often, 1 minute. Remove from heat. Spread 1 grape leaf out on a work surface, veins facing up. Place 1 heaping tablespoon rice mixture in center of leaf. Fold stem end up around filling, and fold in the sides. Roll grape leaf up until filling is completely encased. Repeat with remaining grape leaves and filling.",
+                "3. Tightly pack stuffed grape leaves in a single layer in bottom of a 12-inch saucepan. Place any remaining stuffed leaves on top. Pour in 2 cups water, lemon juice, and remaining 2 tablespoons oil over the top. Cover pan with a heatproof plate (do not use pan lid); cook over medium 5 minutes. Reduce heat to low; cover plate with pan lid, and cook 40 minutes. Remove from heat. Remove lid and plate; let stand 10 minutes."
             ],
             "comments": [
 
@@ -50,10 +66,33 @@
         },
         {
             "id":3,
-            "name": "", 
-            "image": "",
+            "name": "Pad Thai", 
+            "image": "https://inquiringchef.com/wp-content/uploads/2023/02/Authentic-Pad-Thai_square-1908.jpg",
             "steps": [
+                "8 ounces flat rice noodles",
+                "3 Tablespoons oil",
+                "3 cloves garlic , minced",
+                "8 ounces uncooked shrimp, chicken, or extra-firm tofu, cut into small pieces",
+                "2 eggs",
+                "1 cup fresh bean sprouts",
+                "1 red bell pepper, thinly sliced",
+                "3 green onions, chopped",
+                "1/2 cup dry roasted peanuts",
+                "2 limes",
+                "1/2 cup Fresh cilantro, chopped",
+                "3 Tablespoons fish sauce",
+                "1 Tablespoon low-sodium soy sauce",
+                "5 Tablespoons light brown sugar",
+                "2 Tablespoons rice vinegar, or Tamarind Paste",
+                "1 Tablespoon Sriracha hot sauce, or more, to taste",
+                "2 Tablespoons creamy peanut butter (optional)",
 
+                "1. Cook noodles according to package instructions, just until tender.  Rinse under cold water.",
+                "2. Make sauce by combining sauce ingredients in a bowl. Set aside.",
+                "3. Stir Fry:: Heat 1½ tablespoons of oil in a large saucepan or wok over medium-high heat. Add the shrimp, chicken or tofu, garlic and bell pepper. The shrimp will cook quickly, about 1-2 minutes on each side, or until pink. If using chicken, cook until just cooked through, about 3-4 minutes, flipping only once.",
+                "4. Push everything to the side of the pan. Add a little more oil and add the beaten eggs. Scramble the eggs, breaking them into small pieces with a spatula as they cook.",
+                "5. Add noodles, sauce, bean sprouts and peanuts to the pan (reserving some peanuts for topping at the end). Toss everything to combine.",
+                "6. Garnish the top with green onions, extra peanuts, cilantro and lime wedges. Serve immediately!"
             ],
             "comments": [
 
@@ -61,10 +100,29 @@
         },
         {
             "id":4,
-            "name": "",
-            "image": "",
+            "name": "Classic American Cheeseburger",
+            "image": "https://www.recipetineats.com/wp-content/uploads/2022/08/Stack-of-cheeseburgers.jpg",
             "steps": [
+                "1 pound ground chuck",
+                "1 pound ground sirloin",
+                "Sea salt",
+                "Freshly cracked black pepper",
+                "4 or 8 brioche burger buns",
+                "1/3 cup yellow mustard",
+                "1 tablespoon butter",
+                "8 slices American cheese",
+                "4 to 8 (1/4-inch-thick) tomato slices",
+                "4 to 8 (1/4-inch-thick) red onion slices",
+                "8 pickle slices",
+                "8 burger-size lettuce leaves",
+                "Spicy Herb Homemade Mayo, for serving",
 
+                "1. In a large bowl, combine the ground chuck and sirloin and mix gently but thoroughly. Divide into eight equal portions and shape them into burger patties (see opposite for tips). Season both sides with salt and pepper and refrigerate for 30 minutes.",
+                "2. Preheat the oven to 350°F.",
+                "3. Heat a large skillet over medium heat. Split and toast the buns in the pan until toasty and golden brown. Set aside.",
+                "4. Remove the burgers from the fridge and place a thumbprint in the center of each patty. Smear 1 teaspoon of the mustard on both sides of each patty (best burger crust ever). Melt the butter in the preheated pan and, working in batches, fry the burgers for 3 to 4 minutes on each side, until a dark brown crust begins to form. The result: perfectly juicy medium-cooked burgers. For folks who prefer their burgers a little more well done, fry for 5 to 6 minutes per side.",
+                "5. Transfer the patties to a baking sheet as they’re done. Top each with cheese and place in the oven to melt, 2 to 3 minutes.",
+                "6. Build the burgers on the toasted buns with 1 or 2 burger patties, a slice of tomato, pickles, a slice of red onion, and lettuce. Top each with ketchup or mayo. Or both. Serve immediately."
             ],
             "comments": [
 
@@ -72,13 +130,42 @@
         },
         {
             "id":5,
-            "name": "",
-            "image": "",
+            "name": "Classic Margherita Pizza",
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/09/margherita-pizza.jpg",
             "steps": [
+                "8 cups flour",
+                "3 cups lukewarm water",
+                "2 tbsp extra virgin olive oil",
+                "2 tbsp salt",
+                "2 tsp yeast replace 5 grams of yeast with 2 grams of dry yeast if you prefer",
+                "1 can whole peeled tomatoes",
+                "1 teaspoon salt",
+                "1 lb mozzarella",
+                "fresh basil",
+                "extra virgin olive oil",
+                "grated Parmesan cheese",
+                
+                "For the dough:",
+                "1. In a small bowl, mix a small amount of the 700ml (3cups) of water with yeast.",
+                "2. Set aside 100 grams (a bit less than 1 cup) of flour. Pour the rest of the water in a large bowl and start slowly adding the rest of the flour. Start by mixing with a (silicone)spatula and after the first batch of flour has been mix in the water, pour in the yeast water.",
+                "3. Keep adding flour and mixing. This should take about 4-5 minutes.",
+                "4. Once all of the 900 grams (7 cups) of flour has been added, start working the dough with your hand: lift a part of the dough from the side and place it in the center of the dough. Turn the bowl slightly and repeat the process. Keep lifting the dough and rotating the bowl for about 3-4 minutes.",
+                "5. Add salt and continue for 2 minutes. Then, add oil and continue for another 2 minutes. The dough should now be smooth and well mixed. Set it aside for 15-20 minutes, covered by a wet cloth.",
+                "6. Pour some of the leftover flour on a working surface. Then, pour the dough on it. The next step requires that you gently press the dough into a rough rectangular shape. Then fold the dough by folding one side on the center of the dough and then repeat with the other side as well. Press the dough again, turn 90 degrees and fold again. Repeat this process for 2 minutes. Cover the dough and let rest for another 20 minutes.",
+                "7. Repeat the previous step for 1 minute and let the dough rest for another 20 minutes.",
+                "8. After the dough has rested, cut it into six pieces of equal size. Shape them gently into balls and place each of them in a separate container with some olive oil to prevent sticking. Close the containers well.",
+                "9. Let the dough stay in room temperature for 2 hours, after which put them to rest in the fridge overnight. Take the dough back to room temperature 6-8 (preferably 8) hours before baking the pizza.",
+                "10. When the long resting time has passed, the dough should be very airy and have bubbles on it. Place some flour on plate, grab a ball of dough and dip both sides of it in flour. Place on a baking paper and gently press the dough with your fingers from the center towards the edges. Continue until the base is very thin but leave some thicker crust. ",
 
+                "For the pizza",
+                "1. Cut the mozzarella into slices the size of a finger. Then place them on a plate and let them release excess moisture in the fridge. Preheat the oven to 250-275°C (480-530°F).",
+                "2. Crush the contents of the can of peeled tomatoes. You can do this by hand, squeezing the tomatoes, or in a food processor for only a few seconds. Add salt and mix.",
+                "3. Spread some tomato sauce on a prepared pizza dough. Sprinkle with grated Parmesan. Add pieces of fresh basil leaves on the sauce.",
+                "4. Cook the pizza in the oven for a minute or two. When you see the pizza dough starting to cook, take it out.",
+                "5. Place some mozzarella slices evenly on the pizza. Sprinkle with some olive oil. Put the pizza back in the oven and cook for 4-6 minutes, until the pizza looks cooked from the crust."
             ],
             "comments": [
-                
+
             ]
         }
     ]
