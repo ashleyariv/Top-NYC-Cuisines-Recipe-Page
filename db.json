@@ -2,6 +2,7 @@
     "recipes": [
         {
             "id":1,
+            "cuisine": "Mexican",
             "name": "Traditional Mexican Chilaquiles Rojos",
             "image": "https://cookieandkate.com/images/2019/10/best-red-chilaquiles-recipe-3-768x1154.jpg",
             "steps":[
@@ -39,6 +40,7 @@
         },
         {
             "id":2,
+            "cuisine": "Mediterranean",
             "name": "Vegetarian Stuffed Grape Leaves",
             "image": "https://www.fifteenspatulas.com/wp-content/uploads/2013/09/Stuffed-Grape-Leaves-Dolmas-Recipe.jpg",
             "steps": [
@@ -66,6 +68,7 @@
         },
         {
             "id":3,
+            "cuisine": "Thai",
             "name": "Pad Thai", 
             "image": "https://inquiringchef.com/wp-content/uploads/2023/02/Authentic-Pad-Thai_square-1908.jpg",
             "steps": [
@@ -100,6 +103,7 @@
         },
         {
             "id":4,
+            "cuisine": "American",
             "name": "Classic American Cheeseburger",
             "image": "https://www.recipetineats.com/wp-content/uploads/2022/08/Stack-of-cheeseburgers.jpg",
             "steps": [
@@ -130,6 +134,7 @@
         },
         {
             "id":5,
+            "cuisine": "Italian",
             "name": "Classic Margherita Pizza",
             "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/09/margherita-pizza.jpg",
             "steps": [
