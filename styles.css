@@ -1,0 +1,31 @@
+header{
+    text-align:center;
+}
+
+#starting-image{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+img{
+    width:800px;
+    height:600px;
+    padding-left:22%;
+    padding-right:22%;
+}
+/* 
+body{
+&::before{
+content:'';
+position:absolute;
+top:0px;
+bottom:0px;
+right:0px;
+left:0px;
+background-image:url("https://cms-b-assets.familysearch.org/dims4/default/055ea1c/2147483647/strip/true/crop/800x500+0+0/resize/1240x775!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2F89%2F3f%2F1a23c4a6fe52a96d2a6d2586cb90%2Fworld-cuisine.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+opacity:0.5;
+}
+} 
+*/

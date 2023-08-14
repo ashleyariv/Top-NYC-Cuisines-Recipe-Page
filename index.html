@@ -1,7 +1,39 @@
 <!DOCTYPE html>
 <html>
-    <head>
+    <head lang="en" dir="ltr">
         <script defer src="./index.js"></script>
+        <link rel="stylesheet" href="styles.css">
+        <title>Top NYC Cuisines Recipe Page</title>
     </head>
-    <body></body>
+    <body>
+        <header>
+            <h1>\/\/\ Top 5 NYC Cuisines: Recipes /\/\/</h1>
+        </header>
+        <h2>Top NYC Cuisines:</h2>
+        <div id="cuisine-list">
+            <ul>
+                <li>Mexican</li>
+                <li>Mediterranean</li>
+                <li>Thai</li>
+                <li>American</li>
+                <li>Italian</li>
+            </ul> 
+            <div id="starting-image">
+                <img src="https://cms-b-assets.familysearch.org/dims4/default/055ea1c/2147483647/strip/true/crop/800x500+0+0/resize/1240x775!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2F89%2F3f%2F1a23c4a6fe52a96d2a6d2586cb90%2Fworld-cuisine.jpg"/>
+            </div>
+        </div>
+        <div id="recipe-container">
+            <p id="recipe-name"></p>
+            <img id="repice-images"/>
+            <p id="recipe-steps"></p>
+
+        </div>
+        <div id="comments-section"></div>
+        
+        <h3>Comments Section:</h3>
+        <form id="comment-form">
+            <input id="comment-input" type="text" placeholder="Comments..."/>
+            <input type="submit" value="Add Comment"/>
+        </form>
+    </body>
 </html>
