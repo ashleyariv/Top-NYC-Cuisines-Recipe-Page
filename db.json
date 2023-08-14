@@ -34,7 +34,7 @@
                 "8. Sprinkle the chilaquiles generously with crumbled cheese, radish and cilantro leaves. Scoop servings onto individual plates, add a few slices of avocado, a fried egg if desired, and a wedge of lime. The chips will continue softening with time, so chilaquiles are best served promptly (do not re-cover the pan to preserve heat; the chips will get far too soggy)."
             ],
             "comments": [
-                
+
             ]
         },
         {
@@ -43,25 +43,43 @@
             "image": "",
             "steps": [
 
+            ],
+            "comments": [
+
             ]
         },
         {
             "id":3,
             "name": "", 
             "image": "",
-            "steps": ""
+            "steps": [
+
+            ],
+            "comments": [
+
+            ]
         },
         {
             "id":4,
             "name": "",
             "image": "",
-            "steps": ""
+            "steps": [
+
+            ],
+            "comments": [
+
+            ]
         },
         {
             "id":5,
             "name": "",
             "image": "",
-            "steps": ""
+            "steps": [
+
+            ],
+            "comments": [
+                
+            ]
         }
     ]
 }
