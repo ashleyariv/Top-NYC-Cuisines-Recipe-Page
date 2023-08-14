@@ -13,19 +13,34 @@ img{
     padding-left:22%;
     padding-right:22%;
 }
-/* 
-body{
-&::before{
-content:'';
-position:absolute;
-top:0px;
-bottom:0px;
-right:0px;
-left:0px;
-background-image:url("https://cms-b-assets.familysearch.org/dims4/default/055ea1c/2147483647/strip/true/crop/800x500+0+0/resize/1240x775!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2F89%2F3f%2F1a23c4a6fe52a96d2a6d2586cb90%2Fworld-cuisine.jpg");
-background-size:cover;
-background-repeat:no-repeat;
-opacity:0.5;
+body {
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  h1 {
+    color: rgb(230, 21, 21);
+    text-align: center;
+  }
+  h2 {
+    text-align: center;
+    color: rgb(252, 3, 3);
+  }
+ 
+  li {
+    font-size:large;
+    color: #e90404;
 }
-} 
-*/
+  h3 {
+    font-size: large;
+    color:#e90404;
+  }
+  
+  /* p {
+    font-family: verdana;
+    font-size: 20px;
+  } */
