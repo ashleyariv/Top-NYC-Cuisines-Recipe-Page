@@ -10,11 +10,11 @@ Everyone knows that New York City has a huge food scene and some of the best foo
 
 ## Setup 
 -> Open the index.html in the terminal of the project by typing:
-
+```
 open index.html
-
+```
 -> Then run the the JSON server from the terminal/directory that the project is in by typing in: 
-
+```
 json-server --watch db.json
-
+```
 -> Finally, refresh the page where the project orinally opened in your browser to get the contents up and running. 
