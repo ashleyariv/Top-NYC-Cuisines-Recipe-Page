@@ -4,36 +4,32 @@
         <script defer src="./index.js"></script>
         <link rel="stylesheet" href="styles.css">
         <title>Top NYC Cuisines Recipe Page</title>
-        <style>
-            body {
-            background-image: url(https://img.freepik.com/free-photo/vegetables-set-left-black-slate_1220-685.jpg?w=2000&t=st=1692024737~exp=1692025337~hmac=5c024518333c4c9bd9c35da330cdf086d1cdcfaafe91fc74e4a327c42110de9d);
-            }
-        </style>
     </head>
     <body>
         <header>
-            <h1>\/\/\ Top 5 NYC Cuisines: Recipes /\/\/</h1>
+            <h1>\/\/\ Top 5 NYC Cuisine Recipes /\/\/</h1>
         </header>
-        <h2>Top NYC Cuisines:</h2>
-        <div id="cuisine-list">
+
+        <div id="h2-tag">
+            <h2>Top NYC Cuisines:</h2>
         </div>
-            <div id="starting-image">
-                <img src="https://cms-b-assets.familysearch.org/dims4/default/055ea1c/2147483647/strip/true/crop/800x500+0+0/resize/1240x775!/quality/90/?url=https%3A%2F%2Ffamilysearch-brightspot.s3.amazonaws.com%2F89%2F3f%2F1a23c4a6fe52a96d2a6d2586cb90%2Fworld-cuisine.jpg"/>
-        </div>
+
+        <div id="cuisine-list"></div>
+
         <div id="recipe-container">
             <p id="recipe-name"></p>
             <img id="recipe-image" src =""/>
-            <p id="recipe-steps"></p>
-
+            <div id="parent" style="display:none;">
+                <div id="ingredients-container"></div>
+                <div id="steps-container"></div>
+            </div>
         </div>
         
-        <div id="comments-section"></div>
-        <p></p>
-        
         <h3>Comments Section:</h3>
+        <div id="comments-section"></div>
         <form id="comment-form">
             <input id="comment-input" type="text" placeholder="Comments..."/>
-            <input type="submit" value="Add Comment"/>
+            <input id="button" type="submit" value="Add Comment"/>
         </form>
     </body>
 </html>

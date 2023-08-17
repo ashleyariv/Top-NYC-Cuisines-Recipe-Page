@@ -1,66 +1,117 @@
-header{
-  font-size: 50px;
-    text-align:center;
+header {
+  font-size: 35px;
+  text-align:center;
 }
 
-#starting-image{
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
+#recipe-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -40px;
+  width:425px;
+  height:325px;
+  padding:2%;
 }
-img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    width:800px;
-    height:600px;
-    padding-left:22%;
-    padding-right:22%;
-}
+
 body {
-    background-size: cover;
-    height: cover;
-    width: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+  background-image: url('https://e1.pxfuel.com/desktop-wallpaper/820/298/desktop-wallpaper-garlic-bread-knife-board-food-background-7pok5p-cutting-board.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+}
 
-  h1 {
-    color: rgb(250, 250, 250);
-    text-align: center;
-  }
-  h2 {
-    font-size: 42px;
-    text-align: center;
-    color: rgb(252, 3, 3);
-  }
-  ul {
-    text-align: center;
+#parent{
+  gap: 3rem;
 }
-    li {
-    display: inline-block;
-    margin: 10px;
-    padding: 5px;
-    font-size:35px;
-    color: #e90404;
+
+#ingredients-container{
+  border-style: dotted;
+  text-align: left;
+  width: 50%;
+  padding: 2%;
 }
-  h3 {
-      display:table;
-      margin:auto;
-      font-size: 20px;
-      color:#e90404;
-  }
+
+#steps-container{
+  border-style: dotted;
+  text-align: left;
+  width:50%;
+  padding: 2%;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: "copperplate";
+}
+
+#h2-tag{
+  font-size: 42px;
+  text-align: center;
+  color: white;
+  font-family: "copperplate";
+  padding: -4px;
+}
   
-  p {
-    display:table;
-    margin:auto;
-    color:white;
-    font-family: verdana;
-    font-size: 20px;
-  }
-  form {
-    display:table;
-    margin:auto;
+#cuisine-list {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  margin: 10px;
+  padding: 5px;
+  font-size:45px;
+  font-family: "copperplate";
+  color: black;
+}
+
+#recipe-name{
+  font-size: 35px;
+  color:firebrick;
+  font-family: "palatino";
+  text-align: center;
+  margin-top:-5px;
+}
+
+h3 {
+  font-size: 35px;
+  color:white;
+  text-align: center;
+}
+
+#comment-input{
+  font-size:20px;
+}
+
+#button{
+  font-size:20px;
+}
+  
+p {
+  color:black;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+form {
+  display:table;
+  margin:auto;
+}
+
+#new-comment{
+  font-size: 25px;
+  font-family: "baskerville";
+  color:black;
+  text-align: center;
+}
+
+#like-image{
+  width:12px;
+  height:12px;
+}
+
+#dislike-image{
+  width: 12px;
+  height: 12px;
 }
