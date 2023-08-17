@@ -7,7 +7,7 @@ Everyone knows that New York City has a huge food scene and some of the best foo
 -> Add comments to each dish as well as see previous comments from other viewers. Like or dislike comments, after one comment is disliked 10 times it will be deleted from the page for being unpopular. 
 
 -> Comments will persist between dishes and refreshes. 
----
+
 ## Setup 
 -> Open the index.html in the terminal of the project by typing:
 ```
