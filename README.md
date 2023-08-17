@@ -8,6 +8,7 @@ Everyone knows that New York City has a huge food scene and some of the best foo
 
 -> Comments will persist between dishes and refreshes. 
 
+---
 ## Setup 
 -> Open the index.html in the terminal of the project by typing:
 ```
