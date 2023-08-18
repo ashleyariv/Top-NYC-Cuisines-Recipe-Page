@@ -9,6 +9,14 @@ const commentInput = document.querySelector('#comment-input')
 const formSubmission = document.querySelector('#comment-form')
 let currentRecipe
 
+//this is delete request to delete recipe
+recipeImage.addEventListener('click', () => {
+ fetch(`http://localhost:3000/recipes/${currentRecipe.id}`, {
+    method: 'DELETE'
+ })
+
+})
+
 fetch('http://localhost:3000/recipes')
 .then(response => response.json())
 .then(recipes => {
